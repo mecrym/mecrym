@@ -1,6 +1,7 @@
 ## Hey hey, I'm Duda!
 
   ✨ I’m currently working on becoming a front-end developer.
+  <br>
   ✨ I’m currently learning html, css, JavaScript and C.
 
   <div>
