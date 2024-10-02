@@ -4,10 +4,10 @@
 <div>
   <a href="https://github.com/mecrym">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=mecrym&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="stats">
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=mecrym&theme=midnight-purple&hide_border=true" alt="mecrym's Streak">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mecrym&theme=midnight-purple&hide_border=true" alt="mecrym's Streak">
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mecrym&theme=midnight-purple&show_icons=true&hide_border=true&layout=donut-vertical" alt="Top Languages">
+<img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mecrym&theme=midnight-purple&show_icons=true&hide_border=true&layout=donut-vertical" alt="Top Languages">
 <hr>
 <div>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="stats">
