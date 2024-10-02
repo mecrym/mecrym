@@ -3,7 +3,7 @@
 
 <div>
   <a href="https://github.com/mecrym">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mecrym&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mecrym&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="stats">
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=mecrym&theme=midnight-purple&hide_border=true" alt="mecrym's Streak">
 </div>
 
