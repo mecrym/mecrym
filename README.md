@@ -1,10 +1,6 @@
 ## Hey hey, I'm Duda! ✨
 🚀 Front-end Developer | Software Engineering Student | Robotics Enthusiast
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mecrym&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <div align="center">
   <a href="https://www.linkedin.com/in/maria-ecr-moreira"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:maria.ecr.moreira1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
