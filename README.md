@@ -58,14 +58,6 @@
   <br>
 </div>
 
-### **Back-end Engineering**
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-  <br>
-</div>
-
 ### **Data & Machine Learning**
 <div align="center">
   <img src="https://img.shields.io/badge/PyCaret-orange?style=for-the-badge&logo=python&logoColor=white">
