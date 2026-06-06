@@ -23,14 +23,15 @@
 </div>
 
 ## ⚡ GitHub Stats
+
 <div align="center">
 
   <a href="https://github.com/mecrym">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=mecrym&theme=nightowl&show_icons=true&hide_border=true&count_private=true">
-    <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mecrym&theme=nightowl&hide_border=true">
+    <img height="170" src="https://github-readme-stats.shion.dev/api?username=mecrym&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true">
+    <img height="170" src="https://streak-stats.demolab.com/?user=mecrym&theme=catppuccin_mocha&hide_border=true">
   </a>
   <br>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mecrym&theme=nightowl&show_icons=true&hide_border=true&layout=compact">
+  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mecrym&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 
 </div>
 
